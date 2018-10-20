@@ -1,5 +1,7 @@
 # RecipeBook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/muke5hy/recipe-book.svg)](https://greenkeeper.io/)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.20-4.
 
 ## Development server
